@@ -1,0 +1,9 @@
+ALTER USER 'root'@'localhost' IDENTIFIED BY '1234';
+
+git branch "nombre rama"[crear rama]
+git branch-listar ramas [lista las ramas locales]
+git checkout [-moverse a rama x]
+git push origin "feature/calculator" [subir la rama creada localmente creandola en el repositorio remoto]
+git merge "feature/calculator" [fusionar ramas con la master]
+git branch -d "feature/calculator" [eliminar rama de forma local]
+git push origin --delete "feature/calculator" [eliminar rama remota]
