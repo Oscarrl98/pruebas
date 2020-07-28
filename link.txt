@@ -1,0 +1,14 @@
+http://localhost/ar/index.html
+repelisgoo.org/pelicula/jobs-vVHKj
+
+Investigar y posteriormente responder a las siguientes interrogantes:
+Describe el concepto de la máquina de Von Neumman y explicar con un diagrama su funcionamiento.
+Describe cada uno de los componentes de la computadora IAS
+Explica con un diagrama las diferencias entre la computadora IAS y la computadora IBM 7094.
+Explica cada uno de los elementos básicos de una computadora.
+Explica que es la Ley de Moore
+Explica los conceptos clave de un circuito integrado
+Identifica que rol jugo la PDP-8 en la historia de las computadoras
+Describe los conceptos  LSI , VLSI 
+Describe los conceptos Memoria semiconductora y microprocesador.
+Genera un mapa conceptual de las diferentes generaciones de las computadoras.
