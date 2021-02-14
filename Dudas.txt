@@ -1,0 +1,11 @@
+
+-Colocar los final String dentro de las interfaces?
+-colocar atributos private de los dao
+-Cambiar nombre a controladoress a ById?
+-Hacer Refactor a los controladore employee
+-PatientRoomEntity RoomDescription cambiar a inicial minuscula
+
+
+
+
+https://www.youtube.com/watch?v=oonen0NPioI 
